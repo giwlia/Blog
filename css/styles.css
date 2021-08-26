@@ -181,6 +181,9 @@ figure{
 img{
   border-radius: 10px;
 }
+p{
+  text-align: justify;
+}
 
 
 ol,
