@@ -8004,7 +8004,9 @@ textarea.form-control-lg {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
-
+.corfundo{
+  background-color: #DCDCDC;
+}
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
